@@ -1,7 +1,1 @@
-BOT_TOKEN=8770722069:AAG5UriQ2jX1An9zEZbZwymR8dz1wUvsqzI
-MONGODB_URI=mongodb+srv://jaypatil0707tv_db_user:radnyil37@cluster0.il5k7ge.mongodb.net/?appName=Cluster0
-DATABASE_NAME=mogodb
-API_URL=https://your-api-domain.com
-API_KEY=your_api_key_here
-ADMIN_IDS=5823466414
-```
+
